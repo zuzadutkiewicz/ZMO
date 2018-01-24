@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516750982 source:c:\users\x240\desktop\zawmetopty\zmo\main.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
